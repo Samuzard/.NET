@@ -1,0 +1,14 @@
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\bin\Debug\net8.0\IEnumerableImplementation.exe
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\bin\Debug\net8.0\IEnumerableImplementation.deps.json
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\bin\Debug\net8.0\IEnumerableImplementation.runtimeconfig.json
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\bin\Debug\net8.0\IEnumerableImplementation.dll
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\bin\Debug\net8.0\IEnumerableImplementation.pdb
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.AssemblyInfoInputs.cache
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.AssemblyInfo.cs
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.csproj.CoreCompileInputs.cache
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.dll
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\refint\IEnumerableImplementation.dll
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.pdb
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.genruntimeconfig.cache
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\ref\IEnumerableImplementation.dll

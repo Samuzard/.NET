@@ -12,3 +12,4 @@ C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\re
 C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.pdb
 C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.genruntimeconfig.cache
 C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\ref\IEnumerableImplementation.dll
+C:\Build\Dev\DotNetImplementations\IEnumerableImplementation\obj\Debug\net8.0\IEnumerableImplementation.sourcelink.json
